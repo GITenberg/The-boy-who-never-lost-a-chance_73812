@@ -1,11 +1,16 @@
 _repo: The-boy-who-never-lost-a-chance_73812
 _version: 0.0.1
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lyster, Annette
     gutenberg_agent_id: '56259'
     url: http://www.gutenberg.org/2009/agents/56259
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73812#The-boy-who-never-lost-a-chance
 gutenberg_issued: '2024-06-11'
 gutenberg_type: Text
 identifiers:
